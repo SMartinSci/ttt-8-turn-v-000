@@ -11,7 +11,7 @@
    move(board, index)
    display_board(board)
  else 
-  gets.strip
+  turn(board)
  end
  end
 
